@@ -1,4 +1,9 @@
 # Paper Recommender
+Lucas laughlin
+
+
+Demo Site: http://paper-recommender-frontend.s3-website-us-west-2.amazonaws.com/
+
 
 Table of Contents:
   * ### Clustering.ipynb
@@ -60,3 +65,9 @@ Table of Contents:
     * ##### Querying Mongo
       Protoype for querying mongoDB using pymongo
   
+  * ### flask-server
+    * Contains a flask server with trained embeddings and a k nearest neighbor model. It has been deployed to an AWS EC2 instance
+  
+  * ### react-frontend
+    * Contains a react based front end application. It allows you to search through all arXiv high energy physics papers. Once you bhave selected a paper it provides you with the 10 most similar papers.
+    
