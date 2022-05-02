@@ -6,6 +6,8 @@ Demo Site: http://paper-recommender-frontend.s3-website-us-west-2.amazonaws.com/
 
 
 Table of Contents:
+  * ### Academic Paper Recommender
+    * Related write up of project
   * ### Clustering.ipynb
     * ##### Tokenize (documents_with_tokens.pickle)
       Use spacy tokenizer to tokenize abstracts for TF-IDF. *Note: RoBERTa and GPT-2 have their own tokenizers*
